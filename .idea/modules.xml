@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pfm-server/pfm-server.iml" filepath="$PROJECT_DIR$/pfm-server/pfm-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pfm-web-admin/pfm-web-admin.iml" filepath="$PROJECT_DIR$/pfm-web-admin/pfm-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pfm-web-gui/pfm-web-gui.iml" filepath="$PROJECT_DIR$/pfm-web-gui/pfm-web-gui.iml" />
+    </modules>
+  </component>
+</project>
